@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65506ab5232a7667b2234dc6"
+  },
+  "fecha": "20231112",
+  "deporte": "fútbol",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "Equidad",
+  "arbitro": "Maria Espinosa"
+},
+{
+  "_id": {
+    "$oid": "65506aee232a7667b2234dc7"
+  },
+  "fecha": "20231112",
+  "deporte": "fútbol",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "Equidad",
+  "arbitro": "Maria Espinosa"
+},
+{
+  "_id": {
+    "$oid": "65506af0232a7667b2234dc8"
+  },
+  "fecha": "20231112",
+  "deporte": "fútbol",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "Equidad",
+  "arbitro": "Maria Espinosa"
+},
+{
+  "_id": {
+    "$oid": "65506af2232a7667b2234dc9"
+  },
+  "fecha": "20231112",
+  "deporte": "fútbol",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "Equidad",
+  "arbitro": "Maria Espinosa"
+},
+{
+  "_id": {
+    "$oid": "65506af4232a7667b2234dca"
+  },
+  "fecha": "20231112",
+  "deporte": "fútbol",
+  "equipo_local": "millonarios",
+  "equipo_visitante": "Equidad",
+  "arbitro": "Maria Espinosa"
+}]

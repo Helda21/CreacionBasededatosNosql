@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65505de5232a7667b2234d97"
+  },
+  "nombre": "Helio Espinosa",
+  "edad": "17",
+  "equipo": "Millonarios",
+  "posicion": "arquero"
+},
+{
+  "_id": {
+    "$oid": "65505e25232a7667b2234d98"
+  },
+  "nombre": "Lina Espinosa",
+  "edad": "20",
+  "equipo": "Millonarios",
+  "posicion": "arquera"
+},
+{
+  "_id": {
+    "$oid": "65505e2b232a7667b2234d99"
+  },
+  "nombre": "Jose Espinosa",
+  "edad": "17",
+  "equipo": "Millonarios",
+  "posicion": "arquero"
+},
+{
+  "_id": {
+    "$oid": "65505e39232a7667b2234d9a"
+  },
+  "nombre": "Fabian David Espinosa",
+  "edad": "17",
+  "equipo": "Nacional",
+  "posicion": "arquero"
+},
+{
+  "_id": {
+    "$oid": "65505e47232a7667b2234d9b"
+  },
+  "nombre": "Fany Contreras Espinosa",
+  "edad": "17",
+  "equipo": "Nacional",
+  "posicion": "arquero"
+}]

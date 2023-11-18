@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65505f81232a7667b2234da0"
+  },
+  "nombre": "Lizeth parra",
+  "especialidad": "fútbol",
+  "telefono": "3053466861"
+},
+{
+  "_id": {
+    "$oid": "65505fa3232a7667b2234da1"
+  },
+  "nombre": "camila parra",
+  "especialidad": "fútbol"
+},
+{
+  "_id": {
+    "$oid": "65505fab232a7667b2234da2"
+  },
+  "nombre": "maria parra",
+  "especialidad": "fútbol"
+},
+{
+  "_id": {
+    "$oid": "65505fb2232a7667b2234da3"
+  },
+  "nombre": "Catalina parra",
+  "especialidad": "fútbol"
+},
+{
+  "_id": {
+    "$oid": "65505fbb232a7667b2234da4"
+  },
+  "nombre": "Maliver parra",
+  "especialidad": "fútbol"
+}]

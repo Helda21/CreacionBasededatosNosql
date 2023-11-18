@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "65506a3a232a7667b2234dba"
+  },
+  "encuentro": "Bogota Nacional vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "65506a7b232a7667b2234dbb"
+  },
+  "encuentro": "Bogota Equidad vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "65506a7d232a7667b2234dbc"
+  },
+  "encuentro": "Bogota Nacional vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "65506a7f232a7667b2234dbd"
+  },
+  "encuentro": "Bogota Nacional vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "65506a81232a7667b2234dbe"
+  },
+  "encuentro": "Bogota Nacional vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+},
+{
+  "_id": {
+    "$oid": "6557cab3139555988dfb913e"
+  },
+  "encuentro": " Nacional vs Millonarios",
+  "equipo_local_puntos": "5",
+  "equipo_visitante_puntos": "0"
+}]

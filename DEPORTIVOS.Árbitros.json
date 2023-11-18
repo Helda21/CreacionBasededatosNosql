@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65505b9c232a7667b2234d8f"
+  },
+  "nombre": "Helio Espinosa",
+  "experiencia": "7"
+},
+{
+  "_id": {
+    "$oid": "65505d5d232a7667b2234d91"
+  },
+  "nombre": "Lina Contreras",
+  "experiencia": "6"
+},
+{
+  "_id": {
+    "$oid": "65505db6232a7667b2234d92"
+  },
+  "nombre": "Fany Contreras",
+  "experiencia": "6"
+},
+{
+  "_id": {
+    "$oid": "65505dbc232a7667b2234d93"
+  },
+  "nombre": "Jose Contreras",
+  "experiencia": "6"
+},
+{
+  "_id": {
+    "$oid": "65505dc3232a7667b2234d94"
+  },
+  "nombre": "Fabian Contreras",
+  "experiencia": "6"
+},
+{
+  "_id": {
+    "$oid": "6557ca5d139555988dfb913c"
+  },
+  "nombre": "Hel Espinosa",
+  "experiencia": "7"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65505fdd232a7667b2234daf"
+  },
+  "deportista": "Helio Espinosa",
+  "posicion": "Arquero",
+  "puntos": "5"
+},
+{
+  "_id": {
+    "$oid": "65506a06232a7667b2234db0"
+  },
+  "deportista": "Lina Espinosa",
+  "posicion": "Arquera",
+  "puntos": "5"
+},
+{
+  "_id": {
+    "$oid": "65506a0c232a7667b2234db1"
+  },
+  "deportista": "Jose Espinosa",
+  "posicion": "Arquero",
+  "puntos": "5"
+},
+{
+  "_id": {
+    "$oid": "65506a17232a7667b2234db2"
+  },
+  "deportista": "Lizeth Espinosa",
+  "posicion": "Arquera",
+  "puntos": "5"
+},
+{
+  "_id": {
+    "$oid": "65506a20232a7667b2234db3"
+  },
+  "deportista": "Maria Espinosa",
+  "posicion": "Arquera",
+  "puntos": "5"
+}]
